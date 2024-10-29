@@ -53,15 +53,5 @@ int main (){
         else printf("NAO\n\n");
 
     }
-
-
-
-
-
-
-
-
-
-
     return (0);
 }
